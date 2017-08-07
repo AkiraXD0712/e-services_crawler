@@ -1,0 +1,17 @@
+[INFO  - 2017-08-07T09:10:49.215Z] GhostDriver - Main - running on port 12857
+[INFO  - 2017-08-07T09:10:50.302Z] Session [4e841a90-7b50-11e7-b647-7734fdeaa125] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-08-07T09:10:50.303Z] Session [4e841a90-7b50-11e7-b647-7734fdeaa125] - page.customHeaders:  - {}
+[INFO  - 2017-08-07T09:10:50.303Z] Session [4e841a90-7b50-11e7-b647-7734fdeaa125] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-08-07T09:10:50.303Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4e841a90-7b50-11e7-b647-7734fdeaa125
+[ERROR - 2017-08-07T09:11:16.183Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1502097076159
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-07T09:11:42.558Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1502097102503
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-07T09:11:52.917Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1502097112898
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-07T09:12:03.262Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1502097123196
+
+  phantomjs://platform/console++.js:263 in error
